@@ -2,6 +2,7 @@ package javaPackage;
 
 public class FirstJavaProgram {
 	
+	
 	//Double slash is used to comment a line.
 	//Shortcut to write main method - type 'ma' inside class body
 	//Press CTRL+Space from keyboard
@@ -13,6 +14,7 @@ public class FirstJavaProgram {
 		System.out.println("Mummy");  //Mummy
 		System.out.println("Tummy");  //Tummy
 		System.out.println("12345");  //12345
+		System.out.println("Change from Eclipse");
 
 	}
 
