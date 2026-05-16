@@ -2,7 +2,7 @@ package javaPackage;
 
 public class FirstJavaProgram {
 	
-	//Double slash is used to comment a line.Test
+	//Double slash is used to comment a line.
 	//Shortcut to write main method - type 'ma' inside class body
 	//Press CTRL+Space from keyboard
 
